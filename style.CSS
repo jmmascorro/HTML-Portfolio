@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+body{
+    text-align:center;
+    font-family:'Rajdhani';
+}
+
+#name1 {
+    color:black;
+}
+
+
+.top{
+    color:white;
+    background-blend-mode: overlay;
+    background-image: url('images/pexels-photo.jpg'), linear-gradient(to bottom, #edecee, #11100f);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 95vh;
+  width: 100%;
+  border-radius: 2%;
+}
+ ul{
+     text-align: left;
+ }
+
+
